@@ -9,7 +9,7 @@ export default function SideBar(props) {
                     <p>Description</p>
                     <p> ffdofnnfnljjnfnsdlmlkfmwlfmlmfls dksjndsnk jn</p>
                 </div>
-                <button>
+                <button onClick={handleToggleModal}>
                 <i className="fa-solid fa-arrow-right"></i>
                 </button>
 
